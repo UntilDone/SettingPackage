@@ -1,6 +1,6 @@
-Initial Sequence of Project Setting for my Project
+Unity 프로젝트 세팅을 위한 패키지입니다.
 
-You have to install following Packages yourself first
+먼저 설치하셔야 할 패키지입니다.
 
 
 1. NewtonSoftJSON - package by name
@@ -9,9 +9,9 @@ com.unity.nuget.newtonsoft-json
 
 2. Localization - Unity Package
 
-3. My Setting Package file
+3. Install My Setting Package file
 
-if you finished Go to Unity Tools/Settings and Click top to bottom
+여기 까지 진행하셨으면 Unity Tool 카테고리에서 아래와 같은 순서대로 실행해주세요.
 
 1. Setting Folders
 
